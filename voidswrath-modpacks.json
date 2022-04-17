@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "displayName": "Scramble Craft 2.0",
         "serverPackUrl": "https://vl4.voidswrath.com/releases/ScrambleCraft2.zip",
         "logo": "https://voidswrath.com/wp-content/uploads/Scramble-Craft-Season-2-Crafting-Chestplate.png",
@@ -8,6 +9,7 @@
         "platformUrl": "https://voidswrath.com/modpacks/scramble-craft-2-0/"
     },
     {
+        "id": 2,
         "displayName": "Crazy Craft 4.0",
         "serverPackUrl": "https://vl4.voidswrath.com/releases/CrazyCraft4Server.zip",
         "logo": "https://voidswrath.com/wp-content/uploads/Crazy-Craft-Cody-Vs-Queen-Dragon.png",
@@ -16,6 +18,7 @@
         "platformUrl": "https://voidswrath.com/modpacks/crazy-craft-4-0-official/"
     },
     {
+        "id": 3,
         "displayName": "Jurassic Craft 3",
         "serverPackUrl": "https://vl4.voidswrath.com/releases/JurassicCraft3.zip",
         "logo": "https://voidswrath.com/wp-content/uploads/Jurassic-Craft-Cody-Kraken-T-Rex.png",
@@ -24,6 +27,7 @@
         "platformUrl": "https://voidswrath.com/modpacks/jurassic-craft-3/"
     },
     {
+        "id": 4,
         "displayName": "Crazy Craft 3.0",
         "serverPackUrl": "https://vl4.voidswrath.com/release/CrazyCraft%203.zip",
         "logo": "https://voidswrath.com/wp-content/uploads/%5EB7E0E566869EC042E9071D7941F4D2B780D8D001EBE37F5E35%5Epimgpsh_fullsize_distr.png",
