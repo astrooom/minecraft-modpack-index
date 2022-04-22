@@ -28,11 +28,29 @@
     },
     {
         "id": 4,
+        "displayName": "Scramble Craft",
+        "serverPackUrl": "https://vl4.voidswrath.com/releases/ScrambleCraftServer1.6.zip",
+        "logo": "https://voidswrath.com/wp-content/uploads/Scramble-Craft-Cody-Power-Armor.png",
+        "minecraftVersion": "1.12.2",
+        "description": "This mod pack focuses around a custom made mod which scrambles up your world. Literally. Recipes, mob drops, portals, fishing, farming…its all scrambled.",
+        "platformUrl": "https://voidswrath.com/modpacks/scramble-craft/"
+    },
+    {
+        "id": 5,
         "displayName": "Crazy Craft 3.0",
         "serverPackUrl": "https://vl4.voidswrath.com/release/CrazyCraft%203.zip",
         "logo": "https://voidswrath.com/wp-content/uploads/%5EB7E0E566869EC042E9071D7941F4D2B780D8D001EBE37F5E35%5Epimgpsh_fullsize_distr.png",
         "minecraftVersion": "1.7.10",
         "description": "The Crazy Craft 3.0 Mod Pack is crazier than ever! This modpack focuses around outdoing the perfection of Crazy Craft 2.0! We have some custom mods and custom configs made just for the mod pack!",
         "platformUrl": "https://voidswrath.com/modpacks/crazy-craft-3-0/"
-    }
+    },
+    {
+        "id": 6,
+        "displayName": "Crazy Minecraft",
+        "serverPackUrl": "https://vl4.voidswrath.com/release/CrazyMinecraftv1.1.2.zip",
+        "logo": "https://voidswrath.com/wp-content/uploads/Crazy-Minecraft-Image.png",
+        "minecraftVersion": "1.7.10",
+        "description": "If you could combine, voids wrath, jurassic craft and crazy craft you would get this beautiful mod pack right here!",
+        "platformUrl": "https://voidswrath.com/modpacks/crazy-minecraft/"
+    },
 ]
